@@ -1,0 +1,10 @@
+mlruns/
+mlflow.db
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+.databricks/
+.idea/
+.vscode/
+.DS_Store

@@ -1,0 +1,12 @@
+# Packages imported by codeexamplerunexperiment.ipynb.
+# On Databricks the first notebook cell installs mlflow, xgboost, optuna and uv; the rest ship with the runtime.
+mlflow>=3.0
+xgboost>=2.0
+optuna
+uv
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+statsmodels
